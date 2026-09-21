@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.cursor/
+*.tmp
+lab01_results.json
+make_notebook.py
