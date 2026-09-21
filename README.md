@@ -1,7 +1,7 @@
 # CSE457 · Lab 1 — Phân tích và xử lý tín hiệu âm thanh số
 
 **Học phần:** CSE457 – Xử lý âm thanh và tiếng nói  
-**Sinh viên:** Vũ Xuân Sang  -  2351260685 
+**Sinh viên:** Vũ Xuân Sang  -  2351260685  
 **Nộp bài:** Jupyter Notebook — chạy **Run All** từ đầu đến cuối
 
 Pipeline của Lab:
